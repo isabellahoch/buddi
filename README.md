@@ -19,5 +19,8 @@ For more information on this project, please visit [buddi-app.herokuapp.com](htt
 ## Accomplishments
 Buddi won second place at the Global COVIDathon. If you'd like to learn more about the hackathon submission, check this project out on Devpost! [devpost.com/software/buddi-nu1d9m](https://devpost.com/software/buddi-nu1d9m)
 
+## Additional Notes
+A note on the name of the Xcode project file: it was an inside joke fueled by sleep deprivation from the overnight hackathon where Buddi was created! it is not meant to be insensitive and changing it to "Buddi" had a chance of messing up the internal core functionality of the app so we elected to keep it for the memories of the hackathon.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
