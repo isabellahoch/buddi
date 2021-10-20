@@ -2,6 +2,9 @@
 
 This app provides a resource for seniors during the pandemic through an easy-to-use UI facilitated through a chatbot. Since some seniors may not be as comfortable with traditional menu-based development, we decided to incorporate a more accessible user interface with an interactive chatbot capable of having conversations and answering questions. Our AI chatbot, "Buddi," provides both a verbal and typed response to users’ commands. In addition, seniors can conveniently set reminders through the app by directly chatting with Buddi. The home page contains a compiled list of resources, including a database of special senior-only times to visit their local grocery stores, updated CDC recommendations, and self-care strategies. The app also provides a platform for a caretaker to track the location and current status of the senior, which might come in handy after the outbreak. Post-COVID-19, the app will also provide recommendations based on location for nearby events to build community and combat elder isolation, but for now, that portion of the app is dedicated to ideas for at-home entertainment.
 
+## Demo
+[https://www.youtube.com/watch?v=ATdmYR0vXgM](Demo Video)
+
 ## How to Access
 Clone this repo and then open "BUDDI.xcodeproj" it in Xcode! Note: may need to be run on a legacy version of Xcode as this app was developed in 2020.
 
